@@ -39,6 +39,8 @@ exit_button2 = Button(tab3, height = 2,
                     width = 20,  text="Exit", command=root.destroy).grid(row=5, column=2)
 exit_button3 = Button(tab4, height = 2,
                     width = 20,  text="Exit", command=root.destroy).grid(row=7, column=1, columnspan=2)
+exit_button3 = Button(tab5, height = 2,
+                    width = 20,  text="Exit", command=root.destroy).grid(row=5, column=2)
 
 root.bind("<Escape>", lambda event: root.destroy()) # Touche sur le clavier pour fermer l'application
 
