@@ -36,11 +36,6 @@ Pour l'ouverture du source code, il vous faut ces prérequis.
    
 4. Une fenêtre s'ouvrira avec les éléments suivants :
 
-   - Une étiquette demandant "Quelle est ton poid".
-   - Une zone de texte pour saisir le poids.
-   - Convertion entre Lb à Kilo et Kilo à Lb.
-   - Un bouton "Show" pour afficher le poids saisi.
-   - Un bouton "Clear" pour effacer les champs de texte.
-   - Un bouton "Exit" pour fermer l'application.
-     - tu peux utiliser le bouton `Exit` ou le bouton `Esc` sur ton clavier.
+   
+   
   
